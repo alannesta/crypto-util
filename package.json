@@ -1,14 +1,17 @@
 {
-  "name": "elastic-dump",
+  "name": "repo-crypto",
   "version": "1.0.0",
   "description": "data crypto utils",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "crypto": "./index.j"
+  },
   "author": "Alan Cao",
   "license": "ISC",
   "dependencies": {
-    "commander": "^2.9.0",
+    "commander": "^2.9.0"
   }
 }
