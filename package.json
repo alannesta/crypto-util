@@ -7,12 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "crypto": "./index.js"
+    "Atoolkit": "./index.js"
   },
   "author": "Alan Cao",
   "license": "ISC",
   "dependencies": {
     "commander": "^2.9.0",
+    "elasticdump": "^2.4.2",
     "elasticsearch": "^11.0.1"
   }
 }
