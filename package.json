@@ -12,6 +12,7 @@
   "author": "Alan Cao",
   "license": "ISC",
   "dependencies": {
-    "commander": "^2.9.0"
+    "commander": "^2.9.0",
+    "elasticsearch": "^11.0.1"
   }
 }
